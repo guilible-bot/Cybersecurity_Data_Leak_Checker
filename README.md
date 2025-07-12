@@ -69,5 +69,3 @@ Two SQLite tables are created on the first run:
 
 ---
 
-## 📄 License
-MIT License. Free to use and modify.
