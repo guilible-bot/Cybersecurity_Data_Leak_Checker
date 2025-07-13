@@ -10,10 +10,6 @@ A desktop application that lets users check whether an IP address or URL is susp
 - Profile update
 - PDF report generation (using ReportLab)
 
-## 🖼️ UI Preview
-(Add a screenshot inside the `assets/` folder and link it like below)
-
-![Preview](assets/preview.png)
 
 ---
 
